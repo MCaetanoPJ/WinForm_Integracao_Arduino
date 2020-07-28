@@ -1,0 +1,8 @@
+C:\Users\Omnia\Documents\SharpDevelop Projects\Comunicacao_C#_Arduino\Comunicacao_C#_Arduino\bin\Debug\Comunicacao_C#_Arduino.exe.config
+C:\Users\Omnia\Documents\SharpDevelop Projects\Comunicacao_C#_Arduino\Comunicacao_C#_Arduino\bin\Debug\Comunicacao_C#_Arduino.exe
+C:\Users\Omnia\Documents\SharpDevelop Projects\Comunicacao_C#_Arduino\Comunicacao_C#_Arduino\bin\Debug\Comunicacao_C#_Arduino.pdb
+C:\Users\Omnia\Documents\SharpDevelop Projects\Comunicacao_C#_Arduino\Comunicacao_C#_Arduino\obj\Debug\Comunicacao_C#_Arduino.csprojResolveAssemblyReference.cache
+C:\Users\Omnia\Documents\SharpDevelop Projects\Comunicacao_C#_Arduino\Comunicacao_C#_Arduino\obj\Debug\Comunicacao_C__Arduino.MainForm.resources
+C:\Users\Omnia\Documents\SharpDevelop Projects\Comunicacao_C#_Arduino\Comunicacao_C#_Arduino\obj\Debug\Comunicacao_C#_Arduino.csproj.GenerateResource.Cache
+C:\Users\Omnia\Documents\SharpDevelop Projects\Comunicacao_C#_Arduino\Comunicacao_C#_Arduino\obj\Debug\Comunicacao_C#_Arduino.exe
+C:\Users\Omnia\Documents\SharpDevelop Projects\Comunicacao_C#_Arduino\Comunicacao_C#_Arduino\obj\Debug\Comunicacao_C#_Arduino.pdb
